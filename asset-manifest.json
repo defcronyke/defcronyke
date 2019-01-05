@@ -1,13 +1,13 @@
 {
-  "main.css": "/defcronyke/static/css/main.e816448e.chunk.css",
-  "main.js": "/defcronyke/static/js/main.ccd75ef9.chunk.js",
-  "main.js.map": "/defcronyke/static/js/main.ccd75ef9.chunk.js.map",
-  "static/js/1.737d33fb.chunk.js": "/defcronyke/static/js/1.737d33fb.chunk.js",
-  "static/js/1.737d33fb.chunk.js.map": "/defcronyke/static/js/1.737d33fb.chunk.js.map",
-  "runtime~main.js": "/defcronyke/static/js/runtime~main.70b6075d.js",
-  "runtime~main.js.map": "/defcronyke/static/js/runtime~main.70b6075d.js.map",
-  "static/css/main.e816448e.chunk.css.map": "/defcronyke/static/css/main.e816448e.chunk.css.map",
-  "index.html": "/defcronyke/index.html",
-  "precache-manifest.5318a74e63f574a8499d0b3a3848017b.js": "/defcronyke/precache-manifest.5318a74e63f574a8499d0b3a3848017b.js",
-  "service-worker.js": "/defcronyke/service-worker.js"
+  "main.css": "/static/css/main.e816448e.chunk.css",
+  "main.js": "/static/js/main.615cb171.chunk.js",
+  "main.js.map": "/static/js/main.615cb171.chunk.js.map",
+  "static/js/1.737d33fb.chunk.js": "/static/js/1.737d33fb.chunk.js",
+  "static/js/1.737d33fb.chunk.js.map": "/static/js/1.737d33fb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.e816448e.chunk.css.map": "/static/css/main.e816448e.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.5a2535bcb2d81a64a36fe014f789687c.js": "/precache-manifest.5a2535bcb2d81a64a36fe014f789687c.js",
+  "service-worker.js": "/service-worker.js"
 }
