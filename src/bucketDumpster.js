@@ -63,6 +63,7 @@ export default class BucketDumpster extends Component {
             {/* <iframe width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/496325133&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"/> */}
 
             <h4>If you like this, check out <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy</a>&#39;s band with <a href="https://prettyweird.ca" target="_blank" rel="noopener noreferrer">Daphne Volante</a>, Telephone Sound: <a href="https://telephonesound.com" target="_blank" rel="noopener noreferrer">telephonesound.com</a></h4>
+            <h4>The source code for this website is available here: <a href="https://github.com/defcronyke/defcronyke" target="_blank" rel="noopener noreferrer">github.com/defcronyke/defcronyke</a></h4>
             <h4>Part of <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">The Eternal Void Network</a>.</h4>
 
             <br /><br />
