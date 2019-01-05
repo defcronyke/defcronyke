@@ -1,4 +1,8 @@
-# This is the source code for the official website of Jeremy Carter's solo electronic music project Defcronyke.
+## This is the source code for the official website of Jeremy Carter's solo electronic music project Defcronyke.
+
+### Official Site: [https://defcronyke.com](https://defcronyke.com)
+
+### Alternate Link for Official Site: [https://defcronyke.github.io/defcronyke](https://defcronyke.github.io/defcronyke)
 
 ----------
 
