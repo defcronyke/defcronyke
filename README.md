@@ -1,3 +1,7 @@
+# This is the source code for the official website of Jeremy Carter's solo electronic music project Defcronyke.
+
+----------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
