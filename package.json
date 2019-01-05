@@ -1,7 +1,6 @@
 {
   "name": "defcronyke",
   "version": "0.1.0",
-  "homepage": "http://defcronyke.github.io/defcronyke",
   "private": true,
   "dependencies": {
     "node-sass": "^4.11.0",
