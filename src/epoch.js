@@ -12,7 +12,7 @@ export default class Epoch extends Component {
           </div>
 
           <Link to="/">
-            <img src="/images/defcronyke-epoch-album-cover.jpg" alt="The sunrise, digitally altered by Google Deep Dream." />
+            <img src="./images/defcronyke-epoch-album-cover.jpg" alt="The sunrise, digitally altered by Google Deep Dream." />
           </Link>
 
           <div className="links">

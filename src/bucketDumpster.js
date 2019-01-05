@@ -12,7 +12,7 @@ export default class BucketDumpster extends Component {
           </div>
 
           <Link to="/">
-            <img src="/images/defcronyke-bucket_dumpster-album_cover.jpg" alt="A pile of snow completely filling in a small fenced in back yard, covering a table and a barbecue." />
+            <img src="./images/defcronyke-bucket_dumpster-album_cover.jpg" alt="A pile of snow completely filling in a small fenced in back yard, covering a table and a barbecue." />
           </Link>
 
           <div className="links">

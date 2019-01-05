@@ -12,7 +12,7 @@ export default class PackingMaterials extends Component {
           </div>
 
           <Link to="/">
-            <img src="/images/defcronyke-packing_materials-album-cover.jpg" alt="Dark blue sky with a crescent moon showing through some bare tree branches." />
+            <img src="./images/defcronyke-packing_materials-album-cover.jpg" alt="Dark blue sky with a crescent moon showing through some bare tree branches." />
           </Link>
 
           <div className="links">
