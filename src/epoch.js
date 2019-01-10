@@ -36,6 +36,7 @@ export default class Epoch extends Component {
               <li><a href="https://itunes.apple.com/us/album/epoch/1435666177?app=music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://www.deezer.com/en/album/72633832" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
               <li><a href="https://tidal.com/browse/album/94775744" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
+              <li><a href="https://choon.co/albums/0nsz9054jvp/epoch" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li><a href="https://www.kkbox.com/tw/en/album/VlM0RuKHlHxG80F2Mg5g009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               <li><a href="https://archive.org/details/defcronyke-epoch_deluxe" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>

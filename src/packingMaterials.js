@@ -36,6 +36,7 @@ export default class PackingMaterials extends Component {
               <li><a href="https://itunes.apple.com/us/album/packing-materials/1435672588?app=music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://www.deezer.com/en/album/72637412" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
               <li><a href="https://tidal.com/browse/album/94779511" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
+              <li><a href="https://choon.co/albums/0qw61pplkqq/packing-materials" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li><a href="https://www.kkbox.com/hk/en/album/pkp6el7HP33090F2MgT6009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               <li><a href="https://archive.org/details/defcronyke-packing_materials" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>

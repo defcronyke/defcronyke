@@ -30,6 +30,7 @@ export default class BucketDumpster extends Component {
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
               <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
+              <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li>Buy on iTunes (Coming Soon)</li>
               <li>Buy on Amazon (Coming Soon)</li>
               {/* <li><a href="https://play.google.com/music/m/Bhwmiyixrcgrvbzglbjbuaryfgy?t=Packing_Materials_-_Defcronyke" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music</a></li> */}<li>Stream or buy on Google Play Music (Coming Soon)</li>
