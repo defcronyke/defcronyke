@@ -27,14 +27,13 @@ export default class BucketDumpster extends Component {
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
+              <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+              <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
               <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
               <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li>Buy on iTunes (Coming Soon)</li>
-              <li>Buy on Amazon (Coming Soon)</li>
-              {/* <li><a href="https://play.google.com/music/m/Bhwmiyixrcgrvbzglbjbuaryfgy?t=Packing_Materials_-_Defcronyke" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music</a></li> */}<li>Stream or buy on Google Play Music (Coming Soon)</li>
-              {/* <li><a href="https://play.google.com/store/music/album/Defcronyke_Packing_Materials?id=Bhwmiyixrcgrvbzglbjbuaryfgy" target="_blank" rel="noopener noreferrer">Buy on Google Play Store</a></li> */}<li>Buy on Google Play Store (Coming Soon)</li>
               <li>Stream on Apple Music (Coming Soon)</li>
               <li>Stream on Spotify (Coming Soon)</li>
               <li>Stream on Deezer (Coming Soon)</li>
