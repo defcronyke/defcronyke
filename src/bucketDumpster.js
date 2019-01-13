@@ -33,13 +33,13 @@ export default class BucketDumpster extends Component {
               <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
               <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
+              <li><a href="https://archive.org/details/BucketDumpster" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               <li>Buy on iTunes (Coming Soon)</li>
               <li>Stream on Apple Music (Coming Soon)</li>
               <li>Stream on Spotify (Coming Soon)</li>
               <li>Stream on Deezer (Coming Soon)</li>
               <li>Stream on Tidal (Coming Soon)</li>
               <li>Stream on KKBox (Coming Soon)</li>
-              {/* <li><a href="https://archive.org/details/defcronyke-packing_materials" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li> */}
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
