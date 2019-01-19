@@ -33,13 +33,13 @@ export default class BucketDumpster extends Component {
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
               <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
+              <li><a href="https://open.spotify.com/album/3VShQOjY5gGFzOfyz5Rdxb" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
               <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
+              <li><a href="https://www.deezer.com/en/album/83669312" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
+              <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
               <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
+              <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               <li><a href="https://archive.org/details/BucketDumpster" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
-              <li>Stream on Spotify (Coming Soon)</li>
-              <li>Stream on Deezer (Coming Soon)</li>
-              <li>Stream on Tidal (Coming Soon)</li>
-              <li>Stream on KKBox (Coming Soon)</li>
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
