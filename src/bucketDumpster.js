@@ -28,14 +28,14 @@ export default class BucketDumpster extends Component {
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
               <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+              <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
               <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
               <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
+              <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li><a href="https://archive.org/details/BucketDumpster" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
-              <li>Buy on iTunes (Coming Soon)</li>
-              <li>Stream on Apple Music (Coming Soon)</li>
               <li>Stream on Spotify (Coming Soon)</li>
               <li>Stream on Deezer (Coming Soon)</li>
               <li>Stream on Tidal (Coming Soon)</li>
