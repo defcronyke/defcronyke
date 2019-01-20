@@ -29,7 +29,7 @@ export default class PackingMaterials extends Component {
               <li><a href="https://itunes.apple.com/us/album/packing-materials/1435672588?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
               <li><a href="https://www.amazon.com/gp/product/B07H6CDF9J" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R3-e6ImudVUD74CBcLDXEAa" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
-              <li><a href="https://soundcloud.com/defcronyke/sets/packing-materials" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
+              <li><a href="https://soundcloud.com/defcronyke/sets/packing-materials" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/packing-materials" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
               <li><a href="https://open.spotify.com/album/375RXYCHLr1oCQnCRtsFxW" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
               <li><a href="https://itunes.apple.com/us/album/packing-materials/1435672588?app=music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>

@@ -29,7 +29,7 @@ export default class Epoch extends Component {
               <li><a href="https://itunes.apple.com/us/album/epoch/1435666177?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
               <li><a href="https://www.amazon.com/gp/product/B07H628MYZ" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0hz5Ix9O5BLbtppxVIL1pb" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
-              <li><a href="https://soundcloud.com/defcronyke/sets/epoch" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
+              <li><a href="https://soundcloud.com/defcronyke/sets/epoch" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/epoch" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
               <li><a href="https://open.spotify.com/album/0VOamONXTneYKxCWJcTI2p" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
               <li><a href="https://itunes.apple.com/us/album/epoch/1435666177?app=music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
