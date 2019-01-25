@@ -2,7 +2,7 @@ div.epoch {
 	div {
 		max-width: 825px;
 		margin-left: auto;
-		margin-right: auto;
+    margin-right: auto;
 
 		div.epoch-title {
 			h1 {
@@ -39,4 +39,10 @@ div.epoch {
 
 .liberty-music-store {
 	background-color: rgba(0.0, 0.0, 0.0, 0.8) !important;
+}
+
+@media (max-width: 768px) {
+  .choon-player {
+    margin-left: 0px !important;
+  }
 }

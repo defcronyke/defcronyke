@@ -40,3 +40,9 @@ div.epoch {
 .liberty-music-store {
 	background-color: rgba(0.0, 0.0, 0.0, 0.8) !important;
 }
+
+@media (max-width: 768px) {
+  .choon-player {
+    margin-left: 0px !important;
+  }
+}
