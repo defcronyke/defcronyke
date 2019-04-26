@@ -45,6 +45,15 @@ export default class BucketDumpster extends Component {
               <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:34PDZK6Tk3FCAfSDX35yS7eUqVJAC8EtpM?amount=0.0018">34PDZK6Tk3FCAfSDX35yS7eUqVJAC8EtpM</a></li>
             </ul>
 
+            <h2>Download the album with Bittorrent:</h2>
+            <ul>
+              <li><a href="magnet:?xt=urn:btih:faec58960c73d582081f13b2fa1d5ddffb046d93&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20flac&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">flac</a></li>
+              <li><a href="magnet:?xt=urn:btih:9ac8dfaf43d9d52ef714f09d059f7227dad3746c&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20mp3&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">mp3</a></li>
+              <li><a href="magnet:?xt=urn:btih:02637582657bf25a3b5e0e11dded4a648b51e8a5&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20ogg&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">ogg</a></li>
+              <li><a href="magnet:?xt=urn:btih:d47e17094c7c17ca8029e7a532dfd43518ba1a14&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20wav&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">wav</a></li>
+              <li><a href="magnet:?xt=urn:btih:52ebf3d588c10a5d784a30bcb3246642df87797f&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20wav-unnormalized&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">wav unnormalized</a></li>
+            </ul>
+
             <h2>Buy the album with Bitcoin:</h2>
 
             <div className="bitcoin">

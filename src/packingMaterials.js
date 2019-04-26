@@ -45,6 +45,14 @@ export default class PackingMaterials extends Component {
               <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:3GQS9LZQtt51irb5HKtdGN69UNwEs5x1Y7?amount=0.0018">3GQS9LZQtt51irb5HKtdGN69UNwEs5x1Y7</a></li>
             </ul>
 
+            <h2>Download the album with Bittorrent:</h2>
+            <ul>
+              <li><a href="magnet:?xt=urn:btih:7436387f810f2d5f983ff1916939b8679a647909&dn=Defcronyke%20-%20Packing%20Materials%20-%202017%20-%20flac&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">flac</a></li>
+              <li><a href="magnet:?xt=urn:btih:ef338bddf4f6a25e3f099ae287168e15401f374a&dn=Defcronyke%20-%20Packing%20Materials%20-%202017%20-%20mp3&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">mp3</a></li>
+              <li><a href="magnet:?xt=urn:btih:60402b641511a4331aeb049e7500b914f465279f&dn=Defcronyke%20-%20Packing%20Materials%20-%202017%20-%20ogg&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">ogg</a></li>
+              <li><a href="magnet:?xt=urn:btih:88ce4df2a5c355392f55e6413158649393b590e9&dn=Defcronyke%20-%20Packing%20Materials%20-%202017%20-%20wav&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">wav</a></li>
+            </ul>
+
             <h2>Buy the album with Bitcoin:</h2>
 
             <div className="bitcoin">

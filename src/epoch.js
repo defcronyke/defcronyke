@@ -46,6 +46,14 @@ export default class Epoch extends Component {
               <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:3NhL1Q2Kd1DZttTDXbREyVSL254QU3rRuA?amount=0.0018">3NhL1Q2Kd1DZttTDXbREyVSL254QU3rRuA</a></li>
             </ul>
 
+            <h2>Download the album with Bittorrent:</h2>
+            <ul>
+              <li><a href="magnet:?xt=urn:btih:90bdade1628a4c98ccf0967d166d7f1b1261d75d&dn=Defcronyke%20-%20Epoch%20%28Deluxe%29%20-%202016%20-%20flac&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">flac</a></li>
+              <li><a href="magnet:?xt=urn:btih:550b3658f6c3f1201a5811d9cbf6777a29fcc844&dn=Defcronyke%20-%20Epoch%20%28Deluxe%29%20-%202016%20-%20mp3&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">mp3</a></li>
+              <li><a href="magnet:?xt=urn:btih:67a5e56fa8166f7da6dda4424e7b3a3a6cfbaf4f&dn=Defcronyke%20-%20Epoch%20%28Deluxe%29%20-%202016%20-%20ogg&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">ogg</a></li>
+              <li><a href="magnet:?xt=urn:btih:660c36f3b4600fe6fc96969645c70ef2220d7850&dn=Defcronyke%20-%20Epoch%20%28Deluxe%29%20-%202016%20-%20wav&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80">wav</a></li>
+            </ul>
+
             <h2>Buy the album with Bitcoin:</h2>
 
             <div className="bitcoin">
