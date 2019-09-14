@@ -24,7 +24,7 @@ export default class DreamsAndNightmaresEP extends Component {
             <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Dreams and Nightmares EP by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '900px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
 
             <ul>
-              {/* <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li> */}
+              <li><a href="https://defcronyke.bandcamp.com/album/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
               {/* <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
               {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li> */}
               {/* <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li> */}
