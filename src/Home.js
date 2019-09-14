@@ -7,6 +7,12 @@ export default class Home extends Component {
     return (
       <div className="App">
         <div className="main">
+          <Link to="/dreams-and-nightmares-ep">
+            <img
+              src="./images/defcronyke-dreams-and-nightmares-ep.jpg"
+              alt="The cover art of the album Dreams and Nightmares EP by Defcronyke, which links to The official web page for the album."
+            />
+          </Link>
           <Link to="/bucket-dumpster">
             <img
               src="./images/defcronyke-bucket_dumpster-album_cover.jpg"

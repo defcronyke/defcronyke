@@ -1,58 +1,58 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import './bucketDumpster.scss';
+import './dreamsAndNightmaresEp.scss';
 
-export default class BucketDumpster extends Component {
+export default class DreamsAndNightmaresEP extends Component {
   render() {
     return (
       <div className="epoch">
         <div>
           <div className="epoch-title">
-            <h1>Defcronyke - Bucket Dumpster</h1>
+            <h1>Defcronyke - Dreams and Nightmares EP</h1>
           </div>
 
           <Link to="/">
-            <img src="./images/defcronyke-bucket_dumpster-album_cover.jpg" alt="A pile of snow completely filling in a small fenced in back yard, covering a table and a barbecue." />
+            <img src="./images/defcronyke-dreams-and-nightmares-ep.jpg" alt="A beach and ocean view with gloomy gray sky, and an island and some kayakers off in the distance." />
           </Link>
 
           <div className="links">
 
             <h3><Link to="/">Defcronyke</Link> is a solo electronic music project by <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy Carter</a> of the band <a href="https://telephonesound.com" target="_blank" rel="noopener noreferrer">Telephone Sound</a>. Based in <a href="https://goo.gl/maps/68jtLij9kX72" target="_blank" rel="noopener noreferrer">Ottawa, Ontario, Canada</a>.</h3>
 
-            <h2>Bucket Dumpster, released in 2019:</h2>
+            <h2>Dreams and Nightmares EP, released in 2019:</h2>
 
-            <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Bucket Dumpster by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '1050px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
-            {/* <iframe title="Bucket Dumpster by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
+            <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Dreams and Nightmares EP by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '900px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
 
             <ul>
-              <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
-              <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
-              <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
-              <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
-              <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
-              <li><a href="https://soundcloud.com/defcronyke/sets/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
-              <li><a href="https://audiomack.com/album/defcronyke/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
-              <li><a href="https://open.spotify.com/album/3VShQOjY5gGFzOfyz5Rdxb" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
-              <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
-              <li><a href="https://www.deezer.com/en/album/83669312" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
-              <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
-              <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
-              <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
-              <li><a href="https://archive.org/details/BucketDumpster" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
-              <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
+              {/* <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li> */}
+              {/* <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
+              {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li> */}
+              {/* <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li> */}
+              {/* <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li> */}
+              <li><a href="https://soundcloud.com/defcronyke/sets/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
+              <li><a href="https://audiomack.com/album/defcronyke/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
+              {/* <li><a href="https://open.spotify.com/album/3VShQOjY5gGFzOfyz5Rdxb" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li> */}
+              {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
+              {/* <li><a href="https://www.deezer.com/en/album/83669312" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li> */}
+              {/* <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
+              <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
+              {/* <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li> */}
+              {/* <li><a href="https://archive.org/details/DreamsAndNightmaresEP" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li> */}
+              {/* <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li> */}
+              <li>Coming to more music platforms soon.</li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
               <li>Support Defcronyke by sending 0.00035 <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
             </ul>
 
-            <h2>Download the album with Bittorrent:</h2>
+            {/* <h2>Download the album with Bittorrent:</h2>
             <ul>
               <li><a href="magnet:?xt=urn:btih:faec58960c73d582081f13b2fa1d5ddffb046d93&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20flac&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">flac</a></li>
               <li><a href="magnet:?xt=urn:btih:9ac8dfaf43d9d52ef714f09d059f7227dad3746c&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20mp3&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">mp3</a></li>
               <li><a href="magnet:?xt=urn:btih:02637582657bf25a3b5e0e11dded4a648b51e8a5&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20ogg&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">ogg</a></li>
               <li><a href="magnet:?xt=urn:btih:d47e17094c7c17ca8029e7a532dfd43518ba1a14&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20wav&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">wav</a></li>
               <li><a href="magnet:?xt=urn:btih:52ebf3d588c10a5d784a30bcb3246642df87797f&dn=Defcronyke%20-%20Bucket%20Dumpster%20-%202019%20-%20wav-unnormalized&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">wav unnormalized</a></li>
-            </ul>
+            </ul> */}
 
             <h2>Buy the album with Bitcoin:</h2>
 

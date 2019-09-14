@@ -1,0 +1,48 @@
+div.epoch {
+	div {
+		max-width: 825px;
+		margin-left: auto;
+		margin-right: auto;
+
+		div.epoch-title {
+			h1 {
+				text-align: center;
+			}
+		}
+
+		div.links {
+			ul {
+				li {
+					margin-top: 5px;
+					margin-bottom: 5px;
+				}
+			}
+
+			ol {
+				li {
+					margin-top: 5px;
+					margin-bottom: 5px;
+				}
+			}
+
+			a:link, :visited {
+				text-decoration: none;
+				color: rgba(0, 0, 0, 1.0);
+			}
+
+			a:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+.liberty-music-store {
+	background-color: rgba(0.0, 0.0, 0.0, 0.8) !important;
+}
+
+@media (max-width: 768px) {
+  .choon-player {
+    margin-left: 0px !important;
+  }
+}

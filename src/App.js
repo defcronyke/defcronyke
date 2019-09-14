@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Home from './Home';
+import DreamsAndNightmaresEP from './dreamsAndNightmaresEp';
 import BucketDumpster from './bucketDumpster';
 import PackingMaterials from './packingMaterials';
 import Epoch from './epoch';
@@ -18,6 +19,7 @@ class App extends Component {
         <div>
           <Route component={App.ScrollToTop} />
           <Route exact path="/" component={Home} />
+          <Route path="/dreams-and-nightmares-ep" component={DreamsAndNightmaresEP} />
           <Route path="/bucket-dumpster" component={BucketDumpster} />
           <Route path="/packing-materials" component={PackingMaterials} />
           <Route path="/epoch" component={Epoch} />

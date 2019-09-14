@@ -42,7 +42,7 @@ export default class PackingMaterials extends Component {
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
-              <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:3GQS9LZQtt51irb5HKtdGN69UNwEs5x1Y7?amount=0.0018">3GQS9LZQtt51irb5HKtdGN69UNwEs5x1Y7</a></li>
+              <li>Support Defcronyke by sending 0.00035 <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
             </ul>
 
             <h2>Download the album with Bittorrent:</h2>
@@ -58,7 +58,7 @@ export default class PackingMaterials extends Component {
             <div className="bitcoin">
               <ol>
                 <li>Send an email to <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a> and give us a heads-up that you&#39;ll be buying the album. You must do this before you send the BTC, for verification purposes. You don&#39;t need to wait for us to respond.</li>
-                <li>Send 0.0018 BTC to this address: <a href="bitcoin:3FjSoJBNs9XhijccwoXgpJRLa8r1HfTXPg?amount=0.0018">3FjSoJBNs9XhijccwoXgpJRLa8r1HfTXPg</a></li>
+                <li>Send 0.00035 BTC to this address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
                 <li>Email the TX ID of your transaction to <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a>, from the same email address you used before.</li>
                 <li>After we process your order, you will receive a link to a password protected .7z file with the .wav and .flac files in it by email. You can extract the .7z file using <a href="http://p7zip.sourceforge.net/" target="_blank" rel="noopener noreferrer">p7zip</a> on <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noopener noreferrer">Linux</a> or <a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7zip</a> on other platforms.</li>
               </ol>
