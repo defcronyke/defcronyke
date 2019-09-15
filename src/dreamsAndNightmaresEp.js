@@ -25,7 +25,7 @@ export default class DreamsAndNightmaresEP extends Component {
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
-              {/* <li><a href="https://play.google.com/store/music/album/Defcronyke_Bucket_Dumpster?id=Byzorayrhuruhktsmh6rfqaacby" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
+              <li><a href="https://play.google.com/music/preview/Bkpjiowpxswhdssrmukzw5r6k7m?t=Dreams_and_Nightmares_EP_-_Defcronyke" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
               {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li> */}
               {/* <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li> */}
               {/* <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li> */}
@@ -33,7 +33,7 @@ export default class DreamsAndNightmaresEP extends Component {
               <li><a href="https://audiomack.com/album/defcronyke/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
               {/* <li><a href="https://open.spotify.com/album/3VShQOjY5gGFzOfyz5Rdxb" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li> */}
               {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
-              {/* <li><a href="https://www.deezer.com/en/album/83669312" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li> */}
+              <li><a href="https://www.deezer.com/en/album/111232292" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
               {/* <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
               <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               {/* <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li> */}
