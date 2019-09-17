@@ -26,23 +26,23 @@ export default class DreamsAndNightmaresEP extends Component {
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
               <li><a href="https://play.google.com/music/preview/Bkpjiowpxswhdssrmukzw5r6k7m?t=Dreams_and_Nightmares_EP_-_Defcronyke" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
-              {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li> */}
-              {/* <li><a href="https://www.amazon.com/gp/product/B07M7BFHVT" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li> */}
-              {/* <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li> */}
+              <li><a href="https://music.apple.com/us/album/dreams-and-nightmares-ep/1480124562?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
+              <li><a href="https://www.amazon.com/Dreams-Nightmares-EP-Defcronyke/dp/B07XWTGLC8/ref=sr_1_1" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
+              <li><a href="https://www.youtube.com/playlist?list=OLAK5uy_lYlkRVC0qP6HqtmVem9AWu3tGWzgbWZ60" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
               <li><a href="https://soundcloud.com/defcronyke/sets/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
               <li><a href="https://audiomack.com/album/defcronyke/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
-              {/* <li><a href="https://open.spotify.com/album/3VShQOjY5gGFzOfyz5Rdxb" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li> */}
-              {/* <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
+              <li><a href="https://open.spotify.com/album/6qwjh1yqsOM37lrtiVOLE9" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
+              <li><a href="https://music.apple.com/us/album/dreams-and-nightmares-ep/1480124562?app=applemusic&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://www.deezer.com/en/album/111232292" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
-              {/* <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
+              <li><a href="https://tidal.com/browse/album/117983580" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
               <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
-              {/* <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li> */}
+              <li><a href="https://www.kkbox.com/tw/en/album/trv3tnPOnxf4r0F3hogm009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               {/* <li><a href="https://archive.org/details/DreamsAndNightmaresEP" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li> */}
-              {/* <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li> */}
               <li>Coming to more music platforms soon.</li>
+              <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
-              <li>Support Defcronyke by sending 0.00035 <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
+              <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
             </ul>
 
             {/* <h2>Download the album with Bittorrent:</h2>

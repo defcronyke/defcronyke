@@ -43,7 +43,7 @@ export default class Epoch extends Component {
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
               <li>Support Defcronyke by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
-              <li>Support Defcronyke by sending 0.00035 <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
+              <li>Support Defcronyke by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ?amount=0.00035">38JVUzDvP2WSFBHzScRGgBoTYRMpotSVoJ</a></li>
             </ul>
 
             <h2>Download the album with Bittorrent:</h2>
