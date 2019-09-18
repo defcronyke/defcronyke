@@ -37,7 +37,7 @@ export default class DreamsAndNightmaresEP extends Component {
               <li><a href="https://tidal.com/browse/album/117983580" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
               <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
               <li><a href="https://www.kkbox.com/tw/en/album/trv3tnPOnxf4r0F3hogm009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
-              {/* <li><a href="https://archive.org/details/DreamsAndNightmaresEP" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li> */}
+              <li><a href="https://archive.org/details/defcronyke-dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               <li>Coming to more music platforms soon.</li>
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
               <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support Defcronyke on Patreon</a></li>
