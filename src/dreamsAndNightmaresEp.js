@@ -21,7 +21,8 @@ export default class DreamsAndNightmaresEP extends Component {
 
             <h2>Dreams and Nightmares EP, released in 2019:</h2>
 
-            <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Dreams and Nightmares EP by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '900px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
+            {/* <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Dreams and Nightmares EP by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '900px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div> */}
+            <iframe title="Dreams and Nightmares EP by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_lYlkRVC0qP6HqtmVem9AWu3tGWzgbWZ60" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
