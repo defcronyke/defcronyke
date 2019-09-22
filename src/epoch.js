@@ -21,8 +21,8 @@ export default class Epoch extends Component {
 
             <h2>Epoch, released in 2016:</h2>
 
-            {/* <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Epoch by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '1100px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0nsz9054jvp/epoch" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div> */}
-            <iframe title="The album Epoch by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/VSLp_0dnsfA?list=PLA9w7gX4C1R0hz5Ix9O5BLbtppxVIL1pb" frameBorder="0" allowFullScreen />
+            <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Epoch by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '1100px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0nsz9054jvp/epoch" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
+            {/* <iframe title="The album Epoch by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/VSLp_0dnsfA?list=PLA9w7gX4C1R0hz5Ix9O5BLbtppxVIL1pb" frameBorder="0" allowFullScreen /> */}
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/epoch-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>

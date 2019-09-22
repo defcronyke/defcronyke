@@ -21,8 +21,8 @@ export default class PackingMaterials extends Component {
 
             <h2>Packing Materials, released in 2017:</h2>
 
-            {/* <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Packing Materials by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '880px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0qw61pplkqq/packing-materials" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div> */}
-            <iframe title="The album Packing Materials by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/hxZ7GRb7Mf4?list=PLA9w7gX4C1R3-e6ImudVUD74CBcLDXEAa" frameBorder="0" allowFullScreen />
+            <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Packing Materials by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '880px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0qw61pplkqq/packing-materials" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
+            {/* <iframe title="The album Packing Materials by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/hxZ7GRb7Mf4?list=PLA9w7gX4C1R3-e6ImudVUD74CBcLDXEAa" frameBorder="0" allowFullScreen /> */}
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/packing-materials" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>
