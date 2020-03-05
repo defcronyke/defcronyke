@@ -26,7 +26,8 @@ export default class Epoch extends Component {
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/epoch-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
-              <li><a href="https://play.google.com/store/music/album/Defcronyke_Epoch_Deluxe?id=B4bljgdmyl5wjr2vckwwksiktoa" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+              <li><a href="https://play.google.com/store/music/album/Defcronyke_Epoch?id=Btmmkhwmkjcaitxe5bcyvkxnsqy" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+              {/* <li><a href="https://play.google.com/store/music/album/Defcronyke_Epoch_Deluxe?id=B4bljgdmyl5wjr2vckwwksiktoa" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
               <li><a href="https://itunes.apple.com/us/album/epoch/1435666177?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
               <li><a href="https://www.amazon.com/gp/product/B07H628MYZ" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
               <li><a href="https://www.youtube.com/playlist?list=PLA9w7gX4C1R0hz5Ix9O5BLbtppxVIL1pb" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
