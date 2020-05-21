@@ -36,7 +36,7 @@ export default class DreamsAndNightmaresEP extends Component {
               <li><a href="https://music.apple.com/us/album/dreams-and-nightmares-ep/1480124562?app=applemusic&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://www.deezer.com/en/album/111232292" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
               <li><a href="https://tidal.com/browse/album/117983580" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
-              <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
+              {/* <li><a href="https://choon.co/albums/0k3lu1uq9rt/dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li> */}
               <li><a href="https://www.kkbox.com/tw/en/album/trv3tnPOnxf4r0F3hogm009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               <li><a href="https://archive.org/details/defcronyke-dreams-and-nightmares-ep" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               {/* <li>Coming to more music platforms soon.</li> */}

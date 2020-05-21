@@ -37,7 +37,7 @@ export default class BucketDumpster extends Component {
               <li><a href="https://itunes.apple.com/us/album/bucket-dumpster/1448800141?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
               <li><a href="https://www.deezer.com/en/album/83669312" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
               <li><a href="https://listen.tidal.com/album/102017257" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
-              <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
+              {/* <li><a href="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li> */}
               <li><a href="https://www.kkbox.com/hk/en/album/AxsPJoyWLyKdT0F2keUI009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
               <li><a href="https://archive.org/details/BucketDumpster" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
               <li><a href="https://www.facebook.com/defcronykesound" target="_blank" rel="noopener noreferrer">Follow on Facebook</a></li>
