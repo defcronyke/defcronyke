@@ -21,8 +21,9 @@ export default class BucketDumpster extends Component {
 
             <h2>Bucket Dumpster, released in 2019:</h2>
 
+            <iframe title="Bucket Dumpster by Defcronyke, embedded from Audius." src="https://audius.co/embed/album?id=47047&ownerId=167296&flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none'}} />
+            {/* <iframe title="Bucket Dumpster by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
             {/* <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', minWidth: '1550px', marginLeft: '-200px' }}><iframe title="The album Bucket Dumpster by Defcronyke, embedded from Choon." style={{ border: '0px solid silver', marginLeft: '-260px', height: '1050px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0c2keae0bsn/bucket-dumpster" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div> */}
-            <iframe title="Bucket Dumpster by Defcronyke, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R0tDamHoKyDiEiprE20zzGL" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
 
             <ul>
               <li><a href="https://defcronyke.bandcamp.com/album/bucket-dumpster" target="_blank" rel="noopener noreferrer">Stream or buy on Bandcamp</a></li>

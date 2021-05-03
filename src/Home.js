@@ -31,6 +31,7 @@ export default class Home extends Component {
               alt="The cover art of the album Epoch by Defcronyke, which links to The official web page for the album."
             />
           </Link>
+          <iframe title="Defcronyke songs recommended by Defcronyke, embedded from Audius." src="https://audius.co/embed/playlist?id=47059&ownerId=167296&flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none'}} />
         </div>
       </div>
     );
