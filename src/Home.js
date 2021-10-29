@@ -10,7 +10,21 @@ export default class Home extends Component {
 
 			<br /> <br />
 
-			<iframe title="autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://soundcloud.com/defcronyke" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://soundcloud.com/defcronyke/sets/autonomous-backchannel-deck" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div>
+			<a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>
+				<br /> <br />
+				<div>
+					<br /> <br />
+
+					<iframe title="autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div>
+
+					<br /> <br />
+
+				</div>
+
+				<br /> <br />
+			</a>
+
+			{/* <iframe title="autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://soundcloud.com/defcronyke" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://soundcloud.com/defcronyke/sets/autonomous-backchannel-deck" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
 
 			{/* <iframe title="autonomous backchannel deck - next defcronyke album (audius embedded player)" src="https://audius.co/embed/playlist/LMkOQ?flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none;'}} /> */}
 
