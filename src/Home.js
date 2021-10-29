@@ -15,16 +15,30 @@ export default class Home extends Component {
 				<div>
 					<br /> <br />
 
-					<iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div>
+					<iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div>
+
+					{/* <iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
+
+					<br /> <br />					
+					
+					<a href="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" target="_blank" rel="noopener noreferrer">
+
+						<br /> <br />
+
+
+						<div>
+							<p>02 - autonomous backchannel deck - devil in me by Halsey (djf mix)</p>
+							
+							<iframe title="02 - autonomous backchannel deck - next defcronyke album (MixCloud embedded player)" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdevil-in-me-by-halsey-djf-mix%2F" frameBorder="0" allow="autoplay" />
+							
+							{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen /> */}
+						</div>
+
+						<br /> <br />
+					</a>
 
 					<br /> <br />
-
-					<div>
-						<p>02 - autonomous backchannel deck - devil in me by Halsey (djf mix)</p>
-						<iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen />
-					</div>
-
-					<br /> <br />
+					
 
 				</div>
 
