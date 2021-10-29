@@ -29,9 +29,10 @@ export default class Home extends Component {
 						<div>
 							<p>02 - autonomous backchannel deck - devil in me by Halsey (djf mix)</p>
 							
-							<iframe title="02 - autonomous backchannel deck - next defcronyke album (MixCloud embedded player)" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdevil-in-me-by-halsey-djf-mix%2F" frameBorder="0" allow="autoplay" />
+							<iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen />
 							
-							{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen /> */}
+							{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (MixCloud embedded player)" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdevil-in-me-by-halsey-djf-mix%2F" frameBorder="0" allow="autoplay" /> */}
+							
 						</div>
 
 						<br /> <br />
