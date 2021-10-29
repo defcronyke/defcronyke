@@ -8,31 +8,17 @@ export default class Home extends Component {
       <div className="App">
         <div className="main">
 
+			<br /> <br />
 
-			<br />      <br />
+			<iframe title="autonomous backchannel deck - next defcronyke album" src="https://audius.co/embed/playlist/LMkOQ?flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none;'}} />
+
 			<br />      <br />  <br />      <br />
 			<br />      <br />  <br /><br /><br />
 			<br />      <br />              <br />
-			<br />      <br />              <br />
 			<br /><br /><br />				
 			<br />      <br />
 			<br />      <br />
 			<br />      <br />
-			<br />      <br />
-
-
-		  <div>
-		  	<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6848938198173925376" allowFullScreen="" title="#h4 #moment @halsey" width="504" height="290" frameBorder="0" />
-		  </div>
-
-
-			<br />      <br />
-			<br />      <br />  <br /><br /><br />
-			<br />      <br />              <br />
-			<br /><br /><br />				
-			<br />      <br />
-			<br />      <br />
-
 
           <Link to="/dreams-and-nightmares-ep">
             <img
