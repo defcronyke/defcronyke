@@ -77,6 +77,14 @@ export default class Home extends Component {
 
 				{/* <iframe title="autonomous backchannel deck - next defcronyke album (audius embedded player)" src="https://audius.co/embed/playlist/LMkOQ?flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none;'}} /> */}
 
+
+				<br /> <br />
+
+				<div>
+					<iframe title="defcronyke likes these songs by other artists (audius.co embedded player)" src="https://audius.co/embed/playlist/nly6b?flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none;'}} />
+				</div>
+
+
 				<br />      <br />  <br />      <br />
 				<br />      <br />  <br /><br /><br />
 				<br />      <br />              <br />
@@ -86,6 +94,10 @@ export default class Home extends Component {
 				<br />      <br />
 
 			</a>
+
+		
+		
+
 
           <Link to="/dreams-and-nightmares-ep">
             <img
