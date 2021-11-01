@@ -10,67 +10,75 @@ export default class Home extends Component {
 
 			<br /> <br />
 
-			<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix">
+			<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix" target="_blank" rel="noopener noreferrer">
 
 				<br /> <br />
 
-				<a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>
-					<br /> <br />
-					<div>
-						<br /> <br />
-
-						<a href="https://archive.org/embed/hold-me-down-halsey-djf-mix" target="_blank" rel="noopener noreferrer">05 - #autonomous #backchannel #deck #abcdeck</a>
-
-						<a href="https://archive.org/embed/say-you-wont-let-go-james-arthur-cover-ft-defcron" target="_blank" rel="noopener noreferrer">04 - #autonomous #backchannel #deck #abcdeck</a>
-
-						<a href="https://archive.org/embed/autonomous-backchannel-deck-devil-in-me-halsey-cover-ft-defcron" target="_blank" rel="noopener noreferrer">03 - #autonomous #backchannel #deck #abcdeck</a>
-
-						<a href="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" target="_blank" rel="noopener noreferrer">02 - #autonomous #backchannel #deck #abcdeck</a>
-
-						<a href="https://archive.org/embed/defcronyke-autonomous-backchannel-deck-finally-beautiful-stranger-halsey-cover-feat-defcron-duet" target="_blank" rel="noopener noreferrer">01 - #autonomous #backchannel #deck #abcdeck</a>
-
-						<br />
-						<a href="https://tinyurl.com/abcdeck" target="_blank" rel="noopener noreferrer">https://tinyurl.com/abcdeck</a>
-
-
-						{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150453126&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
-
-						{/* <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150453126&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/defcronyke" title="defcronyke" target="_blank" style="color: #cccccc; text-decoration: none;">defcronyke</a> · <a href="https://soundcloud.com/defcronyke/devil-in-me-halsey-cover-ft-defcron-v" title="devil in me (Halsey cover) [ft. defcron v]" target="_blank" style="color: #cccccc; text-decoration: none;">devil in me (Halsey cover) [ft. defcron v]</a></div> */}
-
-						{/* <iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
-						
-						{/* <iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player [autoplay])" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
-
-						<br /> <br />					
-						
-						<a href="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" target="_blank" rel="noopener noreferrer">
-
-							<br /> <br />
-
-
-							<iframe title="autonomous backchannel deck - next defcronyke album (audius.co embedded player)" src="https://audius.co/embed/playlist/LMkOQ?flavor=card" width="100%" height="480" allow="encrypted-media autoplay" style={{'border': 'none;'}} />
-
-
-							{/* <div>
-								<p>02 - autonomous backchannel deck - devil in me by Halsey (djf mix)</p>
-								
-								<iframe title="02 - autonomous backchannel deck - next defcronyke album (audius.co embedded player)" src="https://audius.co/embed/track/NVozw?flavor=compact" width="100%" height="120" allow="encrypted-media" style={{'border': 'none;'}} /> */}
-
-								{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen /> */}
-								
-								{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (MixCloud embedded player)" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdevil-in-me-by-halsey-djf-mix%2F" frameBorder="0" allow="autoplay" /> */}
-								
-							{/* </div> */}
-
-							<br /> <br />
-						</a>
-
-						<br /> <br />
-						
-
-					</div>
+				<a href="https://archive.org/embed/bullet-touanda-defcron-duet" target="_blank" rel="noopener noreferrer">
 
 					<br /> <br />
+
+					<a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>
+						<br /> <br />
+						<div>
+							<br /> <br />
+
+							<a href="https://archive.org/embed/hold-me-down-halsey-djf-mix" target="_blank" rel="noopener noreferrer">05 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/say-you-wont-let-go-james-arthur-cover-ft-defcron" target="_blank" rel="noopener noreferrer">04 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/autonomous-backchannel-deck-devil-in-me-halsey-cover-ft-defcron" target="_blank" rel="noopener noreferrer">03 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" target="_blank" rel="noopener noreferrer">02 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/defcronyke-autonomous-backchannel-deck-finally-beautiful-stranger-halsey-cover-feat-defcron-duet" target="_blank" rel="noopener noreferrer">01 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<br />
+							<a href="https://tinyurl.com/abcdeck" target="_blank" rel="noopener noreferrer">https://tinyurl.com/abcdeck</a>
+
+
+							{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150453126&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
+
+							{/* <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150453126&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/defcronyke" title="defcronyke" target="_blank" style="color: #cccccc; text-decoration: none;">defcronyke</a> · <a href="https://soundcloud.com/defcronyke/devil-in-me-halsey-cover-ft-defcron-v" title="devil in me (Halsey cover) [ft. defcron v]" target="_blank" style="color: #cccccc; text-decoration: none;">devil in me (Halsey cover) [ft. defcron v]</a></div> */}
+
+							{/* <iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
+							
+							{/* <iframe title="01 - autonomous backchannel deck - next defcronyke album (SoundCloud embedded player [autoplay])" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
+
+							<br /> <br />					
+							
+							<a href="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" target="_blank" rel="noopener noreferrer">
+
+								<br /> <br />
+
+
+								<iframe title="autonomous backchannel deck - next defcronyke album (audius.co embedded player)" src="https://audius.co/embed/playlist/LMkOQ?flavor=card" width="100%" height="480" allow="encrypted-media autoplay" style={{'border': 'none;'}} />
+
+
+								{/* <div>
+									<p>02 - autonomous backchannel deck - devil in me by Halsey (djf mix)</p>
+									
+									<iframe title="02 - autonomous backchannel deck - next defcronyke album (audius.co embedded player)" src="https://audius.co/embed/track/NVozw?flavor=compact" width="100%" height="120" allow="encrypted-media" style={{'border': 'none;'}} /> */}
+
+									{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (archive.org embedded player)" src="https://archive.org/embed/devil-in-me-by-halsey-djf-mix" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen /> */}
+									
+									{/* <iframe title="02 - autonomous backchannel deck - next defcronyke album (MixCloud embedded player)" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdevil-in-me-by-halsey-djf-mix%2F" frameBorder="0" allow="autoplay" /> */}
+									
+								{/* </div> */}
+
+								<br /> <br />
+							</a>
+
+							<br /> <br />
+							
+
+						</div>
+
+						<br /> <br />
+					</a>
+
+					<br /> <br />
+
 				</a>
 
 				{/* <iframe title="autonomous backchannel deck - next defcronyke album (SoundCloud embedded player)" width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1338549538&color=%23805450&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><div style={{'fontSize': '10px;', 'color': '#cccccc;', 'lineBreak': 'anywhere;', 'wordBreak': 'normal;', 'overflow': 'hidden;', 'whiteSpace': 'nowrap;', 'textOverflow': 'ellipsis;', 'fontFamily': 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;', 'fontWeight': '100;'}}><a href="https://soundcloud.com/defcronyke" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>defcronyke</a> · <a href="https://soundcloud.com/defcronyke/sets/autonomous-backchannel-deck" title="autonomous backchannel deck" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>autonomous backchannel deck</a></div> */}
