@@ -8,20 +8,26 @@ export default class Home extends Component {
       <div className="App">
         <div className="main">
 
-			<br /> <br />
+			<br />
 
 			<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix" target="_blank" rel="noopener noreferrer">
 
 				<br /> <br />
 
+				<div style={{textDecoration: 'none', color: 'black'}}>
+					<h1 style={{textDecoration: 'inherit', color: 'inherit', fontSize: '2.5em'}}>dêfcr◎ñyke</h1>
+				</div>
+
 				<a href="https://archive.org/embed/bullet-touanda-defcron-duet" target="_blank" rel="noopener noreferrer">
 
-					<br /> <br />
+					<br /> 
 
 					<a href="https://twitter.com/Defcronyke/status/1453936991435837445" title="defcronyke" target="_blank" rel="noopener noreferrer" style={{'color': '#cccccc;', 'textDecoration': 'none;'}}>
-						<br /> <br />
+						<br />
 						<div>
 							<br /> <br />
+
+							<a href="https://archive.org/embed/bullet-reverie-keep-the-sink-clean-by-touanda-and-craig-johnstone-cover-and-mix-by-defcron" target="_blank" rel="noopener noreferrer">06 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/hold-me-down-halsey-djf-mix" target="_blank" rel="noopener noreferrer">05 - #autonomous #backchannel #deck #abcdeck</a>
 
