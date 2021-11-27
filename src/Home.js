@@ -27,6 +27,8 @@ export default class Home extends Component {
 						<div>
 							<br /> <br />
 
+							<a href="https://archive.org/embed/tell-me-you-love-me-demi-lovato-cover-ft-dl-defcron" target="_blank" rel="noopener noreferrer">07 - #autonomous #backchannel #deck #abcdeck</a>
+
 							<a href="https://archive.org/embed/bullet-reverie-keep-the-sink-clean-by-touanda-and-craig-johnstone-cover-and-mix-by-defcron" target="_blank" rel="noopener noreferrer">06 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/hold-me-down-halsey-djf-mix" target="_blank" rel="noopener noreferrer">05 - #autonomous #backchannel #deck #abcdeck</a>
