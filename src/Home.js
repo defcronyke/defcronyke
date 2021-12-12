@@ -10,7 +10,7 @@ export default class Home extends Component {
 
 			<br />
 
-			<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix" target="_blank" rel="noopener noreferrer">
+			<a href="https://gitlab.com/dpfrz/abcdeck/-/raw/master/abcdeck.m3u8?inline=false" target="_blank" rel="noopener noreferrer">
 
 				<br /> <br />
 
