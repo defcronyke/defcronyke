@@ -41,6 +41,27 @@ export default class Home extends Component {
 
 							<a href="https://archive.org/embed/defcronyke-autonomous-backchannel-deck-finally-beautiful-stranger-halsey-cover-feat-defcron-duet" target="_blank" rel="noopener noreferrer">01 - #autonomous #backchannel #deck #abcdeck</a>
 
+							<a href="https://archive.org/embed/go-by-grimes-ft-defcron-64-bit" target="_blank" rel="noopener noreferrer">-00 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/go-by-grimes-feat-defcron-32-bit" target="_blank" rel="noopener noreferrer">00 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/civic" target="_blank" rel="noopener noreferrer">-01 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/hallways" target="_blank" rel="noopener noreferrer">-02 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/go-grimes" target="_blank" rel="noopener noreferrer">-03 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/winchester-defcron" target="_blank" rel="noopener noreferrer">-04 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/winchester-defcron" target="_blank" rel="noopener noreferrer">-05 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/psychotica-macarthurs-park-gorgio-moroder-remix" target="_blank" rel="noopener noreferrer">-06 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/realiti-mix2" target="_blank" rel="noopener noreferrer">-07 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/embed/billie-eilish-bad-company" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
+					
+
 							<br />
 							<a href="https://tinyurl.com/abcdeck" target="_blank" rel="noopener noreferrer">https://tinyurl.com/abcdeck</a>
 
