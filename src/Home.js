@@ -27,6 +27,9 @@ export default class Home extends Component {
 						<div>
 							<br /> <br />
 
+							<h3>#abcdeck out now! : <a href="https://gitlab.com/dpfrz/abcdeck/-/raw/master/abcdeck.m3u8" target="_blank" rel="noopener noreferrer">album playlist</a></h3>
+
+
 							<a href="https://archive.org/details/prickle/hozier+style.wav" target="_blank" rel="noopener noreferrer">08c - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/details/prickle/c--dawn_in_the_fall.mp3" target="_blank" rel="noopener noreferrer">080 - #autonomous #backchannel #deck #abcdeck</a>
