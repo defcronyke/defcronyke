@@ -55,15 +55,15 @@ export default class Home extends Component {
 
 							<a href="https://archive.org/details/go-grimes" target="_blank" rel="noopener noreferrer">-03 - #autonomous #backchannel #deck #abcdeck</a>
 
-							<a href="https://archive.org/embed/winchester-defcron" target="_blank" rel="noopener noreferrer">-04 - #autonomous #backchannel #deck #abcdeck</a>
+							<a href="https://archive.org/embed/cross-that-you-bear-instrumental-board-mix-psychotica" target="_blank" rel="noopener noreferrer">-04 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/winchester-defcron" target="_blank" rel="noopener noreferrer">-05 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/details/psychotica-macarthurs-park-gorgio-moroder-remix" target="_blank" rel="noopener noreferrer">-06 - #autonomous #backchannel #deck #abcdeck</a>
 
-							<a href="https://archive.org/details/realiti-mix2" target="_blank" rel="noopener noreferrer">-07 - #autonomous #backchannel #deck #abcdeck</a>
+							<a href="https://archive.org/embed/billie-eilish-bad-company" target="_blank" rel="noopener noreferrer">-07 - #autonomous #backchannel #deck #abcdeck</a>
 
-							<a href="https://archive.org/embed/billie-eilish-bad-company" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
+							<a href="https://archive.org/details/12-psychotica-monsoon-board-mix" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-09 - #autonomous #backchannel #deck #abcdeck</a>
 							
