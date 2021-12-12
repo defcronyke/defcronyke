@@ -27,6 +27,10 @@ export default class Home extends Component {
 						<div>
 							<br /> <br />
 
+							<a href="https://archive.org/details/prickle/hozier+style.wav" target="_blank" rel="noopener noreferrer">08c - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/prickle/c--dawn_in_the_fall.mp3" target="_blank" rel="noopener noreferrer">080 - #autonomous #backchannel #deck #abcdeck</a>
+
 							<a href="https://archive.org/embed/tell-me-you-love-me-demi-lovato-cover-ft-dl-defcron" target="_blank" rel="noopener noreferrer">07 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/bullet-reverie-keep-the-sink-clean-by-touanda-and-craig-johnstone-cover-and-mix-by-defcron" target="_blank" rel="noopener noreferrer">06 - #autonomous #backchannel #deck #abcdeck</a>
@@ -60,6 +64,9 @@ export default class Home extends Component {
 							<a href="https://archive.org/details/realiti-mix2" target="_blank" rel="noopener noreferrer">-07 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/billie-eilish-bad-company" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-09 - #autonomous #backchannel #deck #abcdeck</a>
+							
 					
 
 							<br />
