@@ -35,6 +35,8 @@ export default class Home extends Component {
 
 							<a href="https://archive.org/details/prickle/hozier+style.wav" target="_blank" rel="noopener noreferrer">08c - #autonomous #backchannel #deck #abcdeck</a>
 
+							<a href="https://audius.co/defcronyke/eight-two-by-grimes-djf-mix" target="_blank" rel="noopener noreferrer">081 - #autonomous #backchannel #deck #abcdeck</a>
+
 							<a href="https://archive.org/details/prickle/c--dawn_in_the_fall.mp3" target="_blank" rel="noopener noreferrer">080 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://archive.org/embed/tell-me-you-love-me-demi-lovato-cover-ft-dl-defcron" target="_blank" rel="noopener noreferrer">07 - #autonomous #backchannel #deck #abcdeck</a>
@@ -71,7 +73,12 @@ export default class Home extends Component {
 
 							<a href="https://archive.org/details/12-psychotica-monsoon-board-mix" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
 
-							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-09 - #autonomous #backchannel #deck #abcdeck</a>
+							<a href="https://audius.co/defcronyke/new-gods-by-grimes-defcron-mix" target="_blank" rel="noopener noreferrer">-080 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://audius.co/defcronyke/eight-by-grimes-defcron-mix" target="_blank" rel="noopener noreferrer">-082 - #autonomous #backchannel #deck #abcdeck</a>
+							
+							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-090 - #autonomous #backchannel #deck #abcdeck</a>
+							
 							
 					
 
