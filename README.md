@@ -4,7 +4,15 @@
 
 ### Alternate Link for Official Site: [https://defcronyke.github.io/defcronyke](https://defcronyke.github.io/defcronyke)
 
-----------
+## Development notes:
+
+To add deployment git hooks, run this command first before doing a git push (only needs to be run once, the first time):
+
+```shell
+git config core.hooksPath .githooks
+```
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
