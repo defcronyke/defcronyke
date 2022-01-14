@@ -81,8 +81,7 @@ export default class Home extends Component {
 							
 							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-090 - #autonomous #backchannel #deck #abcdeck</a>
 							
-							
-					
+												
 
 							<br />
 							<a href="https://tinyurl.com/abcdeck" target="_blank" rel="noopener noreferrer">https://tinyurl.com/abcdeck</a>
