@@ -73,7 +73,7 @@ export default class Home extends Component {
 
 							<a href="https://archive.org/details/12-psychotica-monsoon-board-mix" target="_blank" rel="noopener noreferrer">-08 - #autonomous #backchannel #deck #abcdeck</a>
 
-							<a href="https://archive.org/details/strangers-by-halsey-feat-lauren-jauregui-and-defcron" target="_blank" rel="noopener noreferrer">-09 - #autonomous #backchannel #deck #abcdeck</a>
+							<a href="https://archive.org/details/strangers-mix2" target="_blank" rel="noopener noreferrer">-09 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://audius.co/defcronyke/new-gods-by-grimes-defcron-mix" target="_blank" rel="noopener noreferrer">-080 - #autonomous #backchannel #deck #abcdeck</a>
 
