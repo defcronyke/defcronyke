@@ -27,6 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
