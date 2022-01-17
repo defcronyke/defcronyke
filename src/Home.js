@@ -80,6 +80,8 @@ export default class Home extends Component {
 							<a href="https://audius.co/defcronyke/eight-by-grimes-defcron-mix" target="_blank" rel="noopener noreferrer">-082 - #autonomous #backchannel #deck #abcdeck</a>
 
 							<a href="https://audius.co/defcronyke/coming-down-by-halsey-cover-by-defcronyke-v2" target="_blank" rel="noopener noreferrer">-087 - #autonomous #backchannel #deck #abcdeck</a>
+
+							<a href="https://archive.org/details/medieval-warfare-by-grimes-djf-soft-dark-mix/medieval-worfayer-mastered-i32.wav" target="_blank" rel="noopener noreferrer">-088 - #autonomous #backchannel #deck #abcdeck</a>
 							
 							<a href="https://archive.org/details/prickle/sulfurboy+-+Listen+to+your+heart.wav" target="_blank" rel="noopener noreferrer">-090 - #autonomous #backchannel #deck #abcdeck</a>
 							
