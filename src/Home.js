@@ -6,17 +6,41 @@ export default class Home extends Component {
   render() {
     return (
       <div className="App">
-        <div className="main">
+        <div className="main" style={{backgroundColor: '#0a85fa'}}>
 
 			<br />
 
-			<a href="https://gitlab.com/dpfrz/abcdeck/-/raw/master/abcdeck.m3u8?inline=false" target="_blank" rel="noopener noreferrer">
+			<br /> <br />
 
+			<div style={{textDecoration: 'none', color: 'black'}}>
+				<h1 style={{textDecoration: 'inherit', color: 'inherit', fontSize: '2.5em'}}>dêfcr◎ñyke</h1>
+			</div>
+
+			<br />
+			<div style={{backgroundColor: '#ffaaaa'}}>
 				<br /> <br />
 
-				<div style={{textDecoration: 'none', color: 'black'}}>
-					<h1 style={{textDecoration: 'inherit', color: 'inherit', fontSize: '2.5em'}}>dêfcr◎ñyke</h1>
+				<div style={{backgroundColor: '#bb1188', border: '2px silver dashed'}}>
+
+					<span>
+						New album in progress "Terror Guardians of Canada". Releasing on Audius (other platforms later).<br />
+						New songs will be added to the playlist below as they're completed.
+					</span>
+
+					<h2>Terror Guardians of Canada by Defcronyke</h2>
+
 				</div>
+
+				<div>
+					<br />
+
+					<iframe title="Terror Guardians of Canada by Defcronyke" src="https://audius.co/embed/playlist/E2qlQ?flavor=card" width="100%" height="480" allow="encrypted-media" style={{border: 'none;'}} />
+
+					<br /> <br />
+				</div>
+			</div>
+
+			<a href="https://gitlab.com/dpfrz/abcdeck/-/raw/master/abcdeck.m3u8?inline=false" target="_blank" rel="noopener noreferrer">
 
 				<a href="https://archive.org/embed/bullet-touanda-defcron-duet" target="_blank" rel="noopener noreferrer">
 
